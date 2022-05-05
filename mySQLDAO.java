@@ -3,7 +3,7 @@ package jdbc_test;
  import java.sql.DriverManager;
  import java.sql.ResultSet;
  import java.sql.Statement;
-
+// this code is for jdbc
 public class mySQLDAO {
 	public void connectToDB(String jobname) {
 		try {
